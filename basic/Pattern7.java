@@ -16,3 +16,11 @@ public class Pattern7 {
         }
     }
 }
+/*
+ * Output:-
+     *
+    * *
+   * * *
+  * * * *
+ * * * * *
+ */
