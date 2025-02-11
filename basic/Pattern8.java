@@ -16,3 +16,11 @@ public class Pattern8 {
         }
     }
 }
+/*
+Output:-
+ * * * * *
+  * * * *
+   * * *
+    * *
+     *
+ */
