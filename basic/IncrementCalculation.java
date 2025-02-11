@@ -22,6 +22,6 @@ public class IncrementCalculation {
         else{
             System.out.println("Invalid Input");
         }
-        System.out.println("Your Incresed Salary: "+ total);
+        System.out.println("Your Increased Salary: "+ total);
     }
 }
