@@ -6,10 +6,10 @@ public class TBS {
         int age=sc.nextInt();
         int price=0;
         if(age<12){
-            price= 400*50/100;
+            price= 400-(400*50/100);
         }
         else if(age>=65){
-            price= 400*30/100;
+            price= 400-(400*30/100);
         }
         else{
             price= 400;
